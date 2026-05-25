@@ -1,0 +1,6 @@
+import os
+
+class Config:
+    # Database Settings
+    SQLALCHEMY_DATABASE_URI = 'sqlite:///hospital.db'
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
