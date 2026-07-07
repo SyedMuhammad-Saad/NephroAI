@@ -26,6 +26,4 @@ Instead of settling for a standard "black box" AI model, NephroAI pushes the bou
 
 This platform was built as a Final Year Project (Class of 2026). Building an enterprise-grade system of this complexity was a massive team undertaking.
 
-* **Development Team:** Syed Muhammad Saad, [Insert Teammate 1], [Insert Teammate 2]
-* **Supervisor:** [Insert Supervisor Name]
 * **Data Partner:** A profound thanks to the Pakistan Kidney Center, Abbottabad, for providing the authentic clinical dataset that made this research possible.
