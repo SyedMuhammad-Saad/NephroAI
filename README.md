@@ -1,10 +1,10 @@
-# 🚀 NephroAI: Diagnostic Command Center for Chronic Kidney Disease
+#  NephroAI: Diagnostic Command Center for Chronic Kidney Disease
 
 NephroAI is a full-stack, clinically viable platform engineered specifically for nephrologists to predict and analyze patient risk for Chronic Kidney Disease (CKD) in real-time. Moving beyond standard predictive modeling, this platform is designed as an enterprise-grade medical tool that prioritizes transparency, accuracy, and ease of use in clinical environments.
 
 To ensure real-world applicability, the entire machine learning pipeline was trained and validated using authentic clinical data generously provided by the **Pakistan Kidney Center, Abbottabad**.
 
-## 🌟 Key Novelties & Breakthroughs
+##  Key Novelties & Breakthroughs
 
 Instead of settling for a standard "black box" AI model, NephroAI pushes the boundaries of clinical technology through several advanced integrations:
 
@@ -15,14 +15,14 @@ Instead of settling for a standard "black box" AI model, NephroAI pushes the bou
   * **Similar Record Matching:** Instantly retrieves historically similar cases to aid in accurate case-based reasoning.
 * **Domain-Specific Medical Chatbot:** A specialized LLM agent designed specifically for doctors without deep technical backgrounds. Medical staff can use simple, natural language to ask absolutely any question about a patient's diagnosis. They can seamlessly prompt the chatbot to pull up SHAP explanations, explore counterfactual scenarios, and compare similar cases completely friction-free.
 
-## 💻 Tech Stack
+##  Tech Stack
 
 * **Frontend:** React.js, Tailwind CSS
 * **Backend:** Python, Flask (Modular Blueprint Architecture)
 * **Machine Learning & AI:** PyTorch, Scikit-Learn, LLM Integration
 * **Database & Security:** SQLite, Secure Hashed-Password Authentication
 
-## 🤝 Acknowledgments
+##  Acknowledgments
 
 This platform was built as a Final Year Project (Class of 2026). Building an enterprise-grade system of this complexity was a massive team undertaking.
 
